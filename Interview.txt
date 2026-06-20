@@ -1,0 +1,37 @@
+Q: Why did you calculate the overall approval rate first?
+Answer: I calculated the overall loan approval rate to understand the success rate of loan applications. It gives a baseline for the project, and later I can compare different groups such as Gender, Education, Income, and Credit History against this overall rate.
+
+Q: Why did you analyze Gender vs Loan Status?
+Answer:I wanted to check whether loan approval decisions were influenced by gender. By comparing approval rates across male and female applicants, I could identify whether gender played a significant role in the approval process.
+
+Q: Why did you analyze Marital Status?
+Answer:I analyzed marital status to determine whether being married influences loan approval decisions. Comparing approval rates helps identify whether marital stability is associated with lower credit risk.
+
+Q: Why did you analyze Education vs Loan Status?
+Answer:I analyzed education level to determine whether educational qualifications influence loan approval decisions. Comparing approval rates helps identify whether graduates are perceived as lower-risk borrowers.
+
+Q:Why did you analyze Self Employment?
+Answer:I analyzed self-employment status to determine whether employment type affects loan approval. The approval rates were nearly identical, indicating that self-employment is not a major factor in loan approval decisions.
+
+Q:Why did you analyze Property Area?
+Answer:I analyzed Property Area to understand whether geographic location influences loan approval decisions and to identify which regions contribute the most approved applications.
+
+q:Why did you analyze Applicant Income?
+Answer:I analyzed applicant income because income is a key indicator of financial stability and repayment capacity. Comparing average incomes between approved and rejected applicants helps determine whether income influences loan approval decisions.
+
+Q:Why did you analyze Loan Amount?
+Answer:Loan amount directly affects lending risk. Higher loan amounts increase the bank's exposure, so analyzing loan size helps determine whether larger loans face stricter approval criteria.
+
+Q: Why did you analyze Credit History?
+Answer:Credit history is one of the most important indicators of repayment behavior. By comparing approval rates, I wanted to determine whether past repayment performance influences loan approval decisions.
+
+Q: What was the most important finding in your project?
+Answer:Credit History was the strongest predictor of loan approval. Applicants with good credit history had an approval rate of 79.05%, while applicants with poor credit history had an approval rate of only 7.87%.
+
+Q: What did you learn from the correlation analysis?
+Answer:The correlation analysis revealed that Applicant Income and Loan Amount have a moderate positive relationship (0.57), meaning higher-income applicants tend to request larger loans. Most other numerical variables showed weak correlations, indicating limited relationships between them.
+
+
+
+Tell me about your Banking Loan Analysis Project."
+Answer:I analyzed a loan approval dataset containing 614 loan applications using Python, Pandas, NumPy, Matplotlib, and Seaborn. I performed data cleaning, missing value treatment, exploratory data analysis, and correlation analysis. The key finding was that Credit History was the strongest factor affecting loan approval, with applicants having good credit history showing significantly higher approval rates. I also found that income and loan amount had a moderate positive relationship, while factors such as gender and self-employment had minimal impact on loan approval decisions.

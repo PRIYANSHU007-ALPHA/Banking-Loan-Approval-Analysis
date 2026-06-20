@@ -1,0 +1,51 @@
+Objective
+
+The objective of this project was to analyze loan application data and identify the factors that influence loan approval decisions.
+
+Key Findings
+1. Credit History is the Most Important Factor ⭐
+Applicants with good credit history had an approval rate of 79.05%.
+Applicants with poor credit history had an approval rate of only 7.87%.
+
+Conclusion:
+Credit History is the strongest predictor of loan approval.
+
+2. Applicant Income and Loan Amount are Related
+Correlation = 0.57
+
+Conclusion:
+Applicants with higher incomes generally request larger loans.
+
+3. Gender has Minimal Impact
+Male Approval Rate = 69.12%
+Female Approval Rate = 66.96%
+
+Conclusion:
+Gender does not significantly influence loan approval.
+
+4. Self-Employment has Minimal Impact
+Self-employed Approval Rate = 68.29%
+Non-self-employed Approval Rate = 68.80%
+
+Conclusion:
+Employment type has little effect on loan approval.
+
+5. Loan Amount Alone is Not a Strong Predictor
+Average Loan Amounts for approved and rejected applicants were very similar.
+
+Conclusion:
+Loan amount alone does not determine approval.
+
+Business Recommendations
+Recommendation 1
+
+Focus more on:
+
+Credit History
+because it is the strongest indicator of repayment behavior.
+
+Recommendation 2
+Develop special programs for applicants with poor credit history to improve their eligibility.
+
+Recommendation 3
+Use multiple factors together instead of relying only on income or loan amount.
