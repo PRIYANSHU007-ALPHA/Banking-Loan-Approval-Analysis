@@ -1,3 +1,4 @@
+<img width="763" height="270" alt="Banking Loan Approval Analysis using Python - visual selection" src="https://github.com/user-attachments/assets/5da1c956-5117-4fd1-90f8-83e13c3156e5" />
 
 # Banking Loan Approval Analysis using Python
 
