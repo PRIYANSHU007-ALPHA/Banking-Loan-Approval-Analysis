@@ -1,3 +1,4 @@
+
 # Banking Loan Approval Analysis using Python
 
 ## Project Overview
@@ -45,6 +46,7 @@ The primary objective of this project is to understand the factors that affect l
 * Identified missing values
 * Treated missing values using Mean, Median, and Mode
 * Checked data types and data quality
+![Uploading Banking Loan Approval Analysis using Python - visual selection.png…]()
 
 ### 2. Exploratory Data Analysis (EDA)
 
